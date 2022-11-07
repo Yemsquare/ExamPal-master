@@ -1,4 +1,4 @@
-# ExamPal
+# VouceExam
 
 ## Introduction
 A web app to help the students, especially for the visually challenged students who can't use the online exam portals without any assistance.
